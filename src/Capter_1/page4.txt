@@ -1,0 +1,5 @@
+Day 10 Scanner
+Scanner
+Practice
+Recap
+Scanner hard code: values directly in the code
