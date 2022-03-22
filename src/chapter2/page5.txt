@@ -1,0 +1,3 @@
+Scanner hard code: values directly in the code
+ex: int a = 450; // 450 is hard coded
+ex: String url = "www.google.com";
